@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    color: #ffbb00;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+
+p{
+    text-align: center;
+    color:pink;
+    margin: 10px;
+    background-color:red;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+                    /* background-color: #f0f0f0; */
+                    background-image: url(size_l.webp);
+                    background-size: no-repeat;
+                    background-color: #c98fb1;
+                
+}

@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    color: #ff0000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+p{
+    text-align: center;
+    color: #0000ff;
+    margin: 10px;
+    background-color: antiquewhite;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+body{
+                    /* background-color: #f0f0f0; */
+                    background-image: url(mobile.png);
+                    background-repeat: no-repeat
+}
